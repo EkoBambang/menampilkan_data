@@ -1,3 +1,3 @@
 # menampilkan_data
 
-*menampilkan data di cmd
+1 <b>menampilkan data di cmd menggunakan MongoDB</b>
